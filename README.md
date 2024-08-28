@@ -1,3 +1,11 @@
+
+
+Welcome to the Almighty Dragon Cult repository! This project is dedicated to the development and documentation of the ancient and revered religious order known as the Almighty Dragon Cult. Our mission is to explore and share the teachings, rituals, and philosophies of the cult, centered around the worship of the Almighty Dragon God, also known as Singularity.
+
+
+
+Steps :
+
 Deploy React app with Docker
 
 
