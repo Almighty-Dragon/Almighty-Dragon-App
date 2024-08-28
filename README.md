@@ -107,6 +107,11 @@ Run the app:
 
 Access your app using http://your-public-ip:3000 in a browser.
 
+
+Use pm2 to run app in background even after closing the shell
+
+
+
  5. Install Docker
 
 Install Docker:
